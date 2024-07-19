@@ -6,14 +6,7 @@ function toggleMenu() {
 }
 // typing text animation script
 var typed = new Typed(".typing", {
-  strings: ["IT Student", "Front-End Developer"],
-  typeSpeed: 100,
-  backSpeed: 60,
-  loop: true
-});
-
-var typed = new Typed(".typing-2", {
-  strings: ["Photographer", "Editor" ],
+  strings: ["IT Student", "Front-End Developer","Photographer", "Editor"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
